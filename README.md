@@ -4,9 +4,9 @@ description: >-
   application-layer software
 ---
 
-# Welcome to PIN: Public Index Network
+# Welcome to PIN
 
-![](.gitbook/assets/whatispin%20%281%29.png)
+![](.gitbook/assets/bannerpin.png)
 
 **PIN** is a proof-of-work cryptocurrency designed to save and index metadata to a decentralized, permission less network. 
 
@@ -22,11 +22,11 @@ A **robust development community** is actively using PIN to create and index imm
 
 
 
+![](.gitbook/assets/bannersocial.png)
+
 {% hint style="warning" %}
 **Latest News**: [**FLO Rebrand**](https://medium.com/@JosephFiscella/d3b679b8f6ab)📌
 {% endhint %}
-
-![](.gitbook/assets/pin-social-media.png)
 
 {% embed url="https://twitter.com/FLOblockchain" %}
 
