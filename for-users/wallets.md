@@ -4,6 +4,14 @@ description: 'There is a variety of Desktop, web, and app-based wallets availabl
 
 # Wallets
 
+
+
+
+
+
+
+## FLO Wallets:
+
 **Desktop Wallet and Node:**
 
 {% embed url="https://github.com/floblockchain/flo/releases/tag/v0.15.2.0" %}
