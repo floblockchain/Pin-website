@@ -22,7 +22,8 @@ A **robust development community** is actively using PIN to create and index imm
 
 
 
-![](.gitbook/assets/bannersocial.png)
+[![](.gitbook/assets/bannersocial.png)](https://www.publicindex.network/for-users/exchanges)
+
 
 {% hint style="warning" %}
 **Latest News**: [**FLO Rebrand**](https://medium.com/@JosephFiscella/d3b679b8f6ab)📌
