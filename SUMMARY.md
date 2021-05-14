@@ -25,6 +25,7 @@
 * [Mining](for-users/mining.md)
 * [Wallets](for-users/wallets.md)
 * [Block Explorers](for-users/block-explorers.md)
+* [Swap FLO to PIN](for-users/swap-flo-to-pin.md)
 
 ## 🖈For Developers
 
