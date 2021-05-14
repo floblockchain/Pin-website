@@ -6,7 +6,7 @@ description: 'Learn more about PIN, engage with the team and others in the commu
 
 
 
-![](../.gitbook/assets/image%20%2817%29.png)
+[![](../.gitbook/assets/image%20%2817%29.png)](https://twitter.com/FLOblockchain)
 
                                                       **Follow** [**@FLOblockchain**](https://twitter.com/FLOblockchain) **for updates and news.**
 
