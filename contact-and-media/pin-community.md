@@ -2,7 +2,7 @@
 description: 'Learn more about PIN, engage with the team and others in the community!'
 ---
 
-# PIN Community
+# PIN Community & Social Media
 
 
 

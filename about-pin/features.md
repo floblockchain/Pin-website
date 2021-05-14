@@ -10,7 +10,7 @@ description: The nuts and bolts
 
 ## Block Size and Speed
 
-Initially, pins were limited to 140 bytes. Currently, 1040 bytes of data can be stored on the blockchain with a maximum block size of 1MB. Currently, 1040 bytes of data can be stored on the blockchain with a maximum block size of 1MB. If the blocks are consistently filled, the maximum block size may be increased. With a target time of 40 seconds, PIN is fast. In fact, it is 15x faster than Bitcoin, and 3.75x faster than Litecoin. To further assist with transaction throughput, the maximum ancestor limit for an unspent transaction output \(UTXO\) chain has been increased from the Bitcoin default of 25 up to 1250. This permits large amounts of information to be efficiently indexed.
+Initially, pins were limited to 140 bytes. Currently, 1040 bytes of data can be stored on the blockchain with a maximum block size of 1MB. Currently, 1040 bytes of data can be stored on the blockchain with a maximum block size of 1MB. If the blocks are consistently filled, the maximum block size may be increased. **With a target time of 40 seconds, PIN is fast. In fact, it is 15x faster than Bitcoin, and 3.75x faster than Litecoin.** To further assist with transaction throughput, the maximum ancestor limit for an unspent transaction output \(UTXO\) chain has been increased from the Bitcoin default of 25 up to 1250. This permits large amounts of information to be efficiently indexed.
 
 ## Additional Security
 

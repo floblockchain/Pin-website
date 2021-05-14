@@ -37,6 +37,6 @@
 
 ## 🖈Contact and media
 
-* [PIN Community](contact-and-media/pin-community.md)
+* [PIN Community & Social Media](contact-and-media/pin-community.md)
 * [Contribute to PIN](contact-and-media/contribute-to-pin.md)
 
