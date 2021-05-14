@@ -14,19 +14,19 @@ Its unique features can be used to **"pin"** up to 1040 bytes to any transaction
 
 A **robust development community** is actively using PIN to create and index immutable links that will help to serve as the infrastructure for web3.
 
-[![](.gitbook/assets/buybutton.png)](https://www.publicindex.network/for-users/exchanges) [![](.gitbook/assets/swap-button.png)](https://www.publicindex.network/for-users/exchanges)
+[![](.gitbook/assets/buybutton.png)](https://www.publicindex.network/for-users/exchanges) [](https://www.publicindex.network/for-users/exchanges)
 
-
+![](.gitbook/assets/swap-button.png)
 
 > "The goal of PIN is to build a worldwide database of metadata for content on the web,"
 >
 > — **Joseph Fiscella**, Co-Founder & Lead Developer for PIN \(formerly FLO Network\).
 
-![](.gitbook/assets/bannersocial.png)
-
-{% hint style="warning" %}
-**Latest News**: [**FLO Rebrand**](https://medium.com/@JosephFiscella/d3b679b8f6ab)📌
+{% hint style="success" %}
+**Latest News**: [**FLO Rebrand**](https://medium.com/@JosephFiscella/d3b679b8f6ab)
 {% endhint %}
+
+![](.gitbook/assets/bannersocial.png)
 
 {% embed url="https://twitter.com/FLOblockchain" caption="" %}
 
