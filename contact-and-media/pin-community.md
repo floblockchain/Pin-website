@@ -8,7 +8,7 @@ description: 'Learn more about PIN, engage with the team and others in the commu
 
 ## Official Communities
 
-| Community | URL |
+| Socials | URL |
 | :--- | :--- |
 | Twitter | [https://twitter.com/FLOblockchain](https://twitter.com/FLOblockchain) |
 | Medium | [https://medium.com/floblockchain](https://medium.com/floblockchain) |
