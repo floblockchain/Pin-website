@@ -14,7 +14,7 @@ description: 'Learn more about PIN, engage with the team and others in the commu
 
                                                                    **Read all about PIN on**[ **Medium**](https://medium.com/floblockchain)**.**
 
-![](../.gitbook/assets/image%20%289%29%20%282%29%20%281%29.png)
+![](../.gitbook/assets/image%20%289%29%20%282%29%20%282%29%20%281%29.png)
 
                                      **Chat with the team, and other users in the community on** [**telegram**](https://t.me/floblockchain)**.**
 
