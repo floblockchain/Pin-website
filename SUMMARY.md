@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to PIN: Public Index Network](README.md)
+* [Welcome to PIN](README.md)
 
 ## 🖈about pin
 
@@ -25,6 +25,7 @@
 * [Mining](for-users/mining.md)
 * [Wallets](for-users/wallets.md)
 * [Block Explorers](for-users/block-explorers.md)
+* [Swap FLO to PIN](for-users/swap-flo-to-pin.md)
 
 ## 🖈For Developers
 
@@ -37,6 +38,6 @@
 
 ## 🖈Contact and media
 
-* [PIN Community](contact-and-media/pin-community.md)
+* [PIN Community & Social Media](contact-and-media/pin-community.md)
 * [Contribute to PIN](contact-and-media/contribute-to-pin.md)
 

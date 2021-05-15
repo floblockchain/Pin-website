@@ -12,7 +12,7 @@ description: Check out who is building on PIN!
 
 ## Alexandria
 
-![](../../.gitbook/assets/image%20%2819%29.png)
+![](../../.gitbook/assets/image%20%2819%29%20%281%29.png)
 
 {% page-ref page="alexandria.md" %}
 

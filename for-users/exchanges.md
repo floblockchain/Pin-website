@@ -2,6 +2,10 @@
 
 ## Purchase or Swap PIN: 
 
+**Uniswap:**
+
+{% embed url="https://uniswap.org/" %}
+
 **Bittrex:**
 
 {% embed url="https://bittrex.com/" %}
