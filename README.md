@@ -14,7 +14,7 @@ description: >-
 
 ![](.gitbook/assets/whatisbanner.svg)
 
-**PIN** is a proof-of-work cryptocurrency designed to save and index metadata to a decentralized, permission less network.
+PIN is a proof-of-work cryptocurrency designed to save and index metadata to a decentralized, permission less network.
 
 Users can **"pin"** metadata to any transaction and store it permanently and immutably on the network. Pins can then be retrieved and read by any PIN-based application. When combined with its supporting metadata library, the [Open Index Protocol \("OIP"\)](https://www.openindexprotocol.com/), **PIN provides a new standard for publishing, indexing, and monetizing any digital content.**
 
