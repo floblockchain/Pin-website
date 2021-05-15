@@ -20,11 +20,11 @@ Its unique features can be used to **"pin"** up to 1040 bytes to any transaction
 
 A **robust development community** is actively using PIN to create and index immutable links that will help to serve as the infrastructure for web3.
 
-<center>
+
   
 [![](.gitbook/assets/buybutton.svg)](https://docs.publicindex.network/for-users/exchanges) [![](.gitbook/assets/swapbutton.svg)](https://docs.publicindex.network/for-users/swap-flo-to-pin)
 
-</center>
+
 
 > "The goal of PIN is to build a worldwide database of metadata for content on the web,"
 >
