@@ -6,7 +6,7 @@
 * Block Time: 40 seconds
 * Total Coin Supply: 160,000,000
 * Halving: Every 800,000 blocks
-* Next Halving: 
+* Next Halving: Block 4,800,000 \(Fri Jun 11 2021 03:47:30 GMT+0000\)
 
 ## Mining Pools and Guides:
 
