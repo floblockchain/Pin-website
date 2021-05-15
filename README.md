@@ -14,7 +14,7 @@ Its unique features can be used to **"pin"** up to 1040 bytes to any transaction
 
 A **robust development community** is actively using PIN to create and index immutable links that will help to serve as the infrastructure for web3.
 
-[![](.gitbook/assets/buybutton.svg)](https://www.publicindex.network/for-users/exchanges) [![](.gitbook/assets/swapbutton.svg)](https://www.publicindex.network/for-users/swap-flo-to-pin)
+[![](.gitbook/assets/buybutton.svg)](https://docs.publicindex.network/for-users/exchanges) [![](.gitbook/assets/swapbutton.svg)](https://docs.publicindex.network/for-users/swap-flo-to-pin)
 
 
 
