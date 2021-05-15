@@ -6,7 +6,7 @@ description: >-
 
 # Welcome to PIN
 
-![](.gitbook/assets/bannerpin.png)
+![](.gitbook/assets/whatisbanner.svg)
 
 **PIN** is a proof-of-work cryptocurrency designed to save and index metadata to a decentralized, permission less network.
 
@@ -16,6 +16,8 @@ A **robust development community** is actively using PIN to create and index imm
 
 [![](.gitbook/assets/buybutton.svg)](https://www.publicindex.network/for-users/exchanges) [![](.gitbook/assets/swapbutton.svg)](https://www.publicindex.network/for-users/swap-flo-to-pin)
 
+
+
 > "The goal of PIN is to build a worldwide database of metadata for content on the web,"
 >
 > — **Joseph Fiscella**, Co-Founder & Lead Developer for PIN \(formerly FLO Network\).
@@ -24,7 +26,7 @@ A **robust development community** is actively using PIN to create and index imm
 **Latest News**: [**FLO Rebrand**](https://medium.com/@JosephFiscella/d3b679b8f6ab)
 {% endhint %}
 
-![](.gitbook/assets/bannersocial.png)
+![](.gitbook/assets/socialmediabanner.svg)
 
 {% embed url="https://twitter.com/FLOblockchain" caption="" %}
 
