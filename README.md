@@ -6,9 +6,7 @@ description: >-
 
 # Welcome to PIN
 
-
-
-![](.gitbook/assets/titlebar2.png)
+![Established 2013](.gitbook/assets/titlebar2.png)
 
 {% hint style="success" %}
 **Looking for FLO? We've re-branded to PIN:**  [**FLO Rebrand**](https://medium.com/@JosephFiscella/d3b679b8f6ab)
