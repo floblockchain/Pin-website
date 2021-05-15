@@ -1,5 +1,5 @@
 ---
-description: What makes PIN special
+description: What makes PIN special?
 ---
 
 # Design Philosophy
