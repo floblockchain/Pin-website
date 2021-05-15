@@ -6,7 +6,13 @@ description: >-
 
 # Welcome to PIN
 
+
+
 ![](.gitbook/assets/titlebar2.png)
+
+{% hint style="success" %}
+**Looking for FLO? We've re-branded to PIN:**  [**FLO Rebrand**](https://medium.com/@JosephFiscella/d3b679b8f6ab)
+{% endhint %}
 
 ![](.gitbook/assets/whatisbanner.svg)
 
@@ -21,10 +27,6 @@ A **robust development community** is actively using PIN to create and index imm
 > "The goal of PIN is to build a worldwide database of metadata for content on the web,"
 >
 > — **Joseph Fiscella**, Co-Founder & Lead Developer for PIN \(formerly FLO Network\).
-
-{% hint style="success" %}
-**Latest News**: [**FLO Rebrand**](https://medium.com/@JosephFiscella/d3b679b8f6ab)
-{% endhint %}
 
 ![](.gitbook/assets/socialmediabanner.svg)
 
