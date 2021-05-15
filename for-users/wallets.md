@@ -4,11 +4,10 @@ description: 'There is a variety of Desktop, web, and app-based wallets availabl
 
 # Wallets
 
+For PIN you can use an [Ethereum based wallet](https://ethereum.org/en/wallets/) and add PIN as a custom token \( \). Currently these are the wallets we recommend you use.
 
-
-
-
-
+* [Metamask](https://metamask.io/)
+* [Trust Wallet](https://trustwallet.com/)
 
 ## FLO Wallets:
 

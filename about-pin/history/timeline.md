@@ -126,6 +126,4 @@ description: >-
 * Oct 25th: JRichard, Davi Ortega, and Martin Adams publish GNU Privacy Guard and Flotorizer: A Match Made in Cryptography \| [https://medium.com/in-the-flo/gnu-privacy-guard-and-flotorizer-a-match-made-in-cryptography-2e8774adcf30](https://medium.com/in-the-flo/gnu-privacy-guard-and-flotorizer-a-match-made-in-cryptography-2e8774adcf30)
 * Nov 12th: FLO is now listed on abra.com
 * Nov 13th: In The FLO publishes State of the FLO \| [https://medium.com/in-the-flo/state-of-the-flo-d18e29d8573d](https://medium.com/in-the-flo/state-of-the-flo-d18e29d8573d)
-* Nov 12th: FLO is now listed on abra.com
-* Nov 13th: In The FLO publishes State of the FLO \| [https://medium.com/in-the-flo/state-of-the-flo-d18e29d8573d](https://medium.com/in-the-flo/state-of-the-flo-d18e29d8573d)
 
