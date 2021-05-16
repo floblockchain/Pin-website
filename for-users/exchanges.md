@@ -38,7 +38,7 @@ Binance Smart Chain token address
 
  **PancakeSwap** is a decentralized exchange built on Binance Smart Chain
 
-* ![](../.gitbook/assets/pancakeswap.jpg) [https://pancakeswap.finance/](https://pancakeswap.finance/)
+* 🥞 [https://pancakeswap.finance/](https://pancakeswap.finance/)
 {% endtab %}
 {% endtabs %}
 
