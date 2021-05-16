@@ -6,15 +6,13 @@ description: >-
 
 # Welcome to PIN
 
-![Established 2013](.gitbook/assets/titlebar2.png)
+![](.gitbook/assets/whatisbanner.svg)
+
+PIN📌is a proof-of-work cryptocurrency designed to save and index metadata to a decentralized, permission less network.
 
 {% hint style="success" %}
 **Looking for FLO? We've re-branded to PIN:** [**FLO Rebrand**](https://medium.com/@JosephFiscella/d3b679b8f6ab)
 {% endhint %}
-
-![](.gitbook/assets/whatisbanner.svg)
-
-PIN📌is a proof-of-work cryptocurrency designed to save and index metadata to a decentralized, permission less network.
 
 Users can **"pin"** metadata to any transaction and store it permanently and immutably on the network. Pins can then be retrieved and read by any PIN-based application. When combined with its supporting metadata library, the [Open Index Protocol \("OIP"\)](https://www.openindexprotocol.com/), **PIN provides a new standard for publishing, indexing, and monetizing any digital content.**
 
@@ -31,4 +29,6 @@ A **robust development community** is actively using PIN to create and index imm
 {% embed url="https://twitter.com/pinblockchain" %}
 
 
+
+![Established 2013](.gitbook/assets/titlebar.svg)
 
