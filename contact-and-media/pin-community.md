@@ -10,7 +10,7 @@ description: 'Learn more about PIN, engage with the team and others in the commu
 
 | Socials | URL |
 | :--- | :--- |
-| Twitter | [https://twitter.com/FLOblockchain](https://twitter.com/FLOblockchain) |
+| Twitter | [https://twitter.com/pinblockchain](https://twitter.com/pinblockchain) |
 | Medium | [https://medium.com/floblockchain](https://medium.com/floblockchain) |
 | Telegram | [https://t.me/floblockchain](https://t.me/floblockchain) |
 | Reddit | [https://www.reddit.com/r/floblockchain/](https://www.reddit.com/r/floblockchain/) |
