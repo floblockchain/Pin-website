@@ -18,13 +18,13 @@ Ethereum token address                     [0xc1f976B91217E240885536aF8b63bc8b52
 
 **Uniswap** is a decentralized finance protocol that is used to exchange cryptocurrencies.
 
-* 🦄 [https://uniswap.org/](https://uniswap.org/)
+* 🦄[Link](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0xc1f976B91217E240885536aF8b63bc8b5269a9BE)
 
 ## Bilaxy:
 
  **Bilaxy** is a centralized crypto currency exchange site.
 
-* ![](../.gitbook/assets/bilaxy.png) [https://bilaxy.com/](https://bilaxy.com/)
+* ![](../.gitbook/assets/bilaxy.png)[Link](https://bilaxy.com/trade/PIN_USDT)
 {% endtab %}
 
 {% tab title="PIN on BSC" %}
