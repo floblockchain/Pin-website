@@ -10,7 +10,7 @@
 
 1. 🔗 [Etherscan](https://etherscan.io/token/0xc1f976b91217e240885536af8b63bc8b5269a9be)
 
-{% page-ref page="swap-flo-to-pin.md" %}
+{% page-ref page="upgrade-flo-to-pin.md" %}
 
 
 
