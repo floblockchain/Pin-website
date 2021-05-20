@@ -1,6 +1,6 @@
 # Mining
 
-## PIN Mining at a Glance:
+## FLO Mining at a Glance:
 
 * Proof of Work \(PoW\) - sCrypt algorithm
 * Block Time: 40 seconds

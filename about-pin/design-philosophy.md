@@ -11,5 +11,7 @@ description: What makes PIN special?
 3. Prevent widespread data atrophy
 4. Provide high throughput of transactions
 
+{% page-ref page="features.md" %}
+
 
 
