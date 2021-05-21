@@ -18,7 +18,7 @@ Users and developers can **"pin"** metadata, permanently and immutably storing i
 
 A robust development community is actively using PIN to create and index immutable links that will help to serve as the infrastructure for web3.
 
-[![](.gitbook/assets/buybutton.svg)](https://docs.publicindex.network/for-users/exchanges) [![](.gitbook/assets/swapbutton.svg)](https://docs.publicindex.network/for-users/upgrade-flo-to-pin)
+[![](.gitbook/assets/buybutton.svg)](https://docs.publicindex.network/for-users/exchanges) [![](.gitbook/assets/upgrade button.svg)](https://docs.publicindex.network/for-users/upgrade-flo-to-pin)
 
 > "The goal of PIN is to build a worldwide database of metadata for content on the web,"
 >
