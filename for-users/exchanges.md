@@ -24,7 +24,7 @@ Ethereum token address                     [0xc1f976B91217E240885536aF8b63bc8b52
 
  **Bilaxy** is a centralized crypto currency exchange site.
 
-* ![](../.gitbook/assets/bilaxy.png)[Link](https://bilaxy.com/trade/PIN_USDT)
+* ![](../.gitbook/assets/bilaxy.png)[Link](https://bilaxy.com/trade/PIN_ETH)
 {% endtab %}
 
 {% tab title="PIN on BSC" %}

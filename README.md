@@ -20,8 +20,6 @@ A robust development community is actively using PIN to create and index immutab
 
 [![](.gitbook/assets/buybutton.svg)](https://docs.publicindex.network/for-users/exchanges) [![](.gitbook/assets/upgradebutton.svg)](https://docs.publicindex.network/for-users/upgrade-flo-to-pin)
 
-
-
 > "The goal of PIN is to build a worldwide database of metadata for content on the web,"
 >
 > — **Joseph Fiscella**, CEO of PIN Labs.
