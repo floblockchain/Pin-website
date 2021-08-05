@@ -31,7 +31,7 @@ Ethereum token address                     [0xc1f976B91217E240885536aF8b63bc8b52
 ## PIN on the Binance Smart Chain
 
 {% hint style="success" %}
-Binance Smart Chain token address [0x3b79a28264fc52c7b4cea90558aa0b162f7faf57](https://bscscan.com/token/0x3b79a28264fc52c7b4cea90558aa0b162f7faf57)
+Binance Smart Chain token address   [0x3b79a28264fc52c7b4cea90558aa0b162f7faf57](https://bscscan.com/token/0x3b79a28264fc52c7b4cea90558aa0b162f7faf57)
 {% endhint %}
 
 ## PancakeSwap:
