@@ -44,7 +44,7 @@ Binance Smart Chain token address   [0x3b79a28264fc52c7b4cea90558aa0b162f7faf57]
 
 ## PIN Ethereum chain to BSC Swap
 
-PIN Swap **\(ERC20/BEP20\)** on [**Anyswap**](https://anyswap.exchange/bridge?inputCurrency=0x3b79a28264fc52c7b4cea90558aa0b162f7faf57&network=bsc)**.**
+PIN Swap **\(ERC20/BEP20\)** on **Anyswap.**
 
 \*\*\*\*[**https://anyswap.exchange/swap**](https://anyswap.exchange/bridge?inputCurrency=0x3b79a28264fc52c7b4cea90558aa0b162f7faf57&network=bsc)\*\*\*\*
 
