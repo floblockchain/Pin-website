@@ -1,5 +1,5 @@
 ---
-description: What makes PIN special
+description: What makes PIN special?
 ---
 
 # Design Philosophy
@@ -10,6 +10,8 @@ description: What makes PIN special
 2. Provide proof of data integrity 
 3. Prevent widespread data atrophy
 4. Provide high throughput of transactions
+
+{% page-ref page="features.md" %}
 
 
 

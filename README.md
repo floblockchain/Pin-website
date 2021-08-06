@@ -8,25 +8,27 @@ description: >-
 
 ![](.gitbook/assets/whatisbanner.svg)
 
-**PIN** is a proof-of-work cryptocurrency designed to save and index metadata to a decentralized, permission less network.
+PIN📌is a proof-of-work cryptocurrency designed to index web3 metadata. PIN also exists as a wrapped token on [Ethereum](https://etherscan.io/token/0xc1f976b91217e240885536af8b63bc8b5269a9be), Binance Smart Chain, and Polygon.
 
-Its unique features can be used to **"pin"** up to 1040 bytes to any transaction and store it permanently and immutably on the network. The pins can then be retrieved and read by many PIN-based applications. When combined with its supporting metadata library, the [Open Index Protocol \("OIP"\)](https://www.openindexprotocol.com/), **PIN provides a new standard for publishing, indexing, and monetizing any digital content.**
+{% hint style="success" %}
+**Looking for FLO? We've re-branded to PIN:** [**FLO Rebrand and Expansion Into Web3**](https://medium.com/public-index-network/upgrading-flo-to-pin-to-build-content-rich-web3-applications-d3b679b8f6ab)
+{% endhint %}
 
-A **robust development community** is actively using PIN to create and index immutable links that will help to serve as the infrastructure for web3.
+Users and developers can **"pin"** metadata, permanently and immutably storing it on the network for public use. Pins can then be retrieved and read by any PIN-based application. When combined with its supporting metadata library, the [Open Index Protocol \("OIP"\)](https://www.openindexprotocol.com/), **PIN provides a new standard for publishing, indexing, and monetizing any digital content.**
 
-[![](.gitbook/assets/buybutton.svg)](https://www.publicindex.network/for-users/exchanges) [![](.gitbook/assets/swapbutton.svg)](https://www.publicindex.network/for-users/swap-flo-to-pin)
+A robust development community is actively using PIN to create and index immutable links that will help to serve as the infrastructure for web3.
 
-
+[![](.gitbook/assets/buybutton.svg)](https://docs.publicindex.network/for-users/exchanges) [![](.gitbook/assets/upgradebutton.svg)](https://docs.publicindex.network/for-users/upgrade-flo-to-pin)
 
 > "The goal of PIN is to build a worldwide database of metadata for content on the web,"
 >
-> — **Joseph Fiscella**, Co-Founder & Lead Developer for PIN \(formerly FLO Network\).
+> — **Joseph Fiscella**, CEO of PIN Labs.
 
-{% hint style="success" %}
-**Latest News**: [**FLO Rebrand**](https://medium.com/@JosephFiscella/d3b679b8f6ab)
-{% endhint %}
+{% page-ref page="about-pin/design-philosophy.md" %}
 
 ![](.gitbook/assets/socialmediabanner.svg)
 
-{% embed url="https://twitter.com/FLOblockchain" caption="" %}
+{% embed url="https://twitter.com/pinblockchain" caption="" %}
+
+![Established 2013](.gitbook/assets/titlebar.svg)
 
