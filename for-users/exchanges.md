@@ -46,7 +46,7 @@ Binance Smart Chain token address   [0x3b79a28264fc52c7b4cea90558aa0b162f7faf57]
 
 PIN Swap **\(ERC20/BEP20\)** on **Anyswap.**
 
-\*\*\*\*[**https://anyswap.exchange/swap**](https://anyswap.exchange/bridge?inputCurrency=0x3b79a28264fc52c7b4cea90558aa0b162f7faf57&network=bsc)\*\*\*\*
+\*\*\*\*![](../.gitbook/assets/67252237.png) [**https://anyswap.exchange/swap**](https://anyswap.exchange/bridge?inputCurrency=0x3b79a28264fc52c7b4cea90558aa0b162f7faf57&network=bsc)\*\*\*\*
 
 ## FLO Exchanges:
 
