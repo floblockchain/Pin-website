@@ -10,61 +10,58 @@ description: Meet the PIN Team.
 
 Joseph is Chief Technology Officer and Lead Blockchain Developer at Blockparty. He has been part of the PIN Core team since launch, and is co-founder of Alexandria. With 7 years of full time blockchain experience, Joseph brings a deep wealth of industry talent and insight to the PIN Core team.
 
-\*\*\*\*🐦**Twitter:** [https://twitter.com/JosephFiscella](https://twitter.com/JosephFiscella)
+****:bird:**Twitter:** [https://twitter.com/JosephFiscella](https://twitter.com/JosephFiscella)
 
 ## Devon James
 
-Devon is the inventor of Open Index Protocol \(OIP\), a blockchain specification for a worldwide database, CTO of Alexandria Labs and application for content on the Open Index and CEO of Blockchain Technology Group a company that incubates ideas. He has worked for Apple and Sony, deployed twice overseas as a US Marine infantryman, contributed to Emmy & Oscar winners as a post-production artist, and co-founded a small design/manufacture/import business.
+Devon is the inventor of Open Index Protocol (OIP), a blockchain specification for a worldwide database, CTO of Alexandria Labs and application for content on the Open Index and CEO of Blockchain Technology Group a company that incubates ideas. He has worked for Apple and Sony, deployed twice overseas as a US Marine infantryman, contributed to Emmy & Oscar winners as a post-production artist, and co-founded a small design/manufacture/import business.
 
-🐦**Twitter:** [https://twitter.com/DevonRJames](https://twitter.com/DevonRJames)
+:bird:**Twitter:** [https://twitter.com/DevonRJames](https://twitter.com/DevonRJames)
 
 ## Davi Ortega
 
 Davi is a PhD in computational biophysics working as a postdoctoral scholar in the Jensen Lab at Caltech. He is the project coordinator for ETDB and a developer of several applications focused in data visualization for bioinformatics. Davi is passionate about evolution of complexity and distributed forms of governance.
 
-🐦**Twitter:** [https://twitter.com/ortega\_science](https://twitter.com/ortega_science)
+:bird:**Twitter:** [https://twitter.com/ortega\_science](https://twitter.com/ortega\_science)
 
 ## Bitspill
 
-Bitspill has been a blockchain developer for over 5 years, and has been a member of the PIN core team for most of that time. He is a contributor to the following projects: PIN Core, Alexandria, OIP, SIA Coin, MiningCore, Bitcoin Test Suite, Verge Electrum Wallet, and Ethereum. 
+Bitspill has been a blockchain developer for over 5 years, and has been a member of the PIN core team for most of that time. He is a contributor to the following projects: PIN Core, Alexandria, OIP, SIA Coin, MiningCore, Bitcoin Test Suite, Verge Electrum Wallet, and Ethereum.&#x20;
 
-🐦**Twitter:** [https://twitter.com/bitspill6](https://twitter.com/bitspill6)
+:bird:**Twitter:** [https://twitter.com/bitspill6](https://twitter.com/bitspill6)
 
 ## Jesse Valentin
 
-Jesse is a Front End Developer and blockchain expert. Valentin has been an active contributor to PIN and Alexandria since 2016 and joined the PIN Core team in 2017, creating front and back end applications for PIN. Valentin is the creator of the PIN website as well as the block halving information page.  
+Jesse is a Front End Developer and blockchain expert. Valentin has been an active contributor to PIN and Alexandria since 2016 and joined the PIN Core team in 2017, creating front and back end applications for PIN. Valentin is the creator of the PIN website as well as the block halving information page. &#x20;
 
 ## Sky Young
 
-Sky is a full-stack developer who has worked on everything from decentralized file storage and transfer systems to protocols built on top of blockchains. Sky has been on the PIN Core team since 2015, is Full Stack Web Developer at Alexandria, and is a member of the OIP Working Group.  
+Sky is a full-stack developer who has worked on everything from decentralized file storage and transfer systems to protocols built on top of blockchains. Sky has been on the PIN Core team since 2015, is Full Stack Web Developer at Alexandria, and is a member of the OIP Working Group. &#x20;
 
-🐦**Twitter:** [https://twitter.com/OstlerDev](https://twitter.com/OstlerDev)
+:bird:**Twitter:** [https://twitter.com/OstlerDev](https://twitter.com/OstlerDev)
 
 ## Amy James
 
-CEO of Alexandria Labs a content application for music, podcasts, video and other media published to the Open Index. She introduced the ’Salutary Protocols’ blockchain economic model to contribute to the ‘fat’ and ‘thin’ protocol models. Previously, she has worked at nonprofit arts organizations, political campaigns and as an independent writer/director. 
+CEO of Alexandria Labs a content application for music, podcasts, video and other media published to the Open Index. She introduced the ’Salutary Protocols’ blockchain economic model to contribute to the ‘fat’ and ‘thin’ protocol models. Previously, she has worked at nonprofit arts organizations, political campaigns and as an independent writer/director.&#x20;
 
-🐦**Twitter:** [https://twitter.com/AmyofAlexandria](https://twitter.com/AmyofAlexandria)
+:bird:**Twitter:** [https://twitter.com/AmyofAlexandria](https://twitter.com/AmyofAlexandria)
 
 ## Chris Chrysostom
 
 Chris has developed software for more than 30 years. His experience ranges from inventory control desktop databases to large healthcare and supply chain systems. He came to PIN by working with Alexandria in 2016. Later work includes the Teton County Blockchain Pilot with Medici Land Governance adding more than 187,000 property records to OIP and PIN. Currently, he provides development help on several blockchain projects.
 
-🐦**Twitter:** [https://twitter.com/cchrysostom](https://twitter.com/cchrysostom)
+:bird:**Twitter:** [https://twitter.com/cchrysostom](https://twitter.com/cchrysostom)
 
 ## Kirill Gourov
 
-Kirill is Director at Eastmore Group, a New York based alternative investing firm, where he focuses on digital currency investment. He also manages strategy at Compass Blockchain Solutions, a blockchain consulting firm. Kirill has been a PIN team member since 2013. 
+Kirill is Director at Eastmore Group, a New York based alternative investing firm, where he focuses on digital currency investment. He also manages strategy at Compass Blockchain Solutions, a blockchain consulting firm. Kirill has been a PIN team member since 2013.&#x20;
 
-🐦**Twitter:** [https://twitter.com/kgourov](https://twitter.com/kgourov)
+:bird:**Twitter:** [https://twitter.com/kgourov](https://twitter.com/kgourov)
 
-## Sam Russel
+## Sam
 
-Sam is PIN’s marketing expert and commercial strategist who works with CEOs, marketing teams and agencies to deliver smarter marketing. Sam has worked in marketing and commercial roles for Red Bull, Experian, Zomatio, and Peazie. Some of Sam’s clients also include BMW, Air Asia, and Fox Sports. Sam’s specialty is campaign planning, strategy, ROI planning and attribution, data acquisition, conversion optimization, audience building, and go to market strategies. 
+Sam is PIN’s marketing expert and commercial strategist who works with CEOs, marketing teams and agencies to deliver smarter marketing. Sam has worked in marketing and commercial roles for Red Bull, Experian, Zomatio, and Peazie. Some of Sam’s clients also include BMW, Air Asia, and Fox Sports. Sam’s specialty is campaign planning, strategy, ROI planning and attribution, data acquisition, conversion optimization, audience building, and go to market strategies.&#x20;
 
-🐦**Twitter:** [https://twitter.com/ssurmas](https://twitter.com/ssurmas)
+## Ray
 
-## Ray Engelking
-
-Ray is a developer and inventor with 30 years of experience envisioning, architecting, producing, and maintaining technical solutions. Ray has a background in electronics, engineering, and computing and has been part of the PIN Core team since 2017.  
-
+Ray is a developer and inventor with 30 years of experience envisioning, architecting, producing, and maintaining technical solutions. Ray has a background in electronics, engineering, and computing and has been part of the PIN Core team since 2017. &#x20;
